@@ -15,11 +15,11 @@
                         <p class="text-lg">ชื่อเล่น Tiger</p>
                     </div>
                     <div class="flex space-x-3 max-w-full bg-white p-6 rounded-lg">
-                        <div>
-                            <img class="rounded-lg" src="tiger.jpg" />
+                        <div class="w-full">
+                            <img class="rounded-lg w-full" src="tiger.jpg" />
                         </div>
-                        <div>
-                            <img class="rounded-lg" src="meme.jpg" />
+                        <div class="w-full">
+                            <img class="rounded-lg w-full" src="meme.jpg" />
                         </div>
                     </div>
                     <div class="bg-white p-6 rounded-lg">
